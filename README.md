@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my e-commerce<br>I'm specializing in python more and more, with a focus on data handling and <br> database interactions.<br>
+I'm currently working on my e-commerce<br>I'm specializing in python and API'S more and more, with a focus on data handling and <br> database interactions.<br>
 
 
 ## 🌐 Socials:
